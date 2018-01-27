@@ -4,7 +4,7 @@ import controller.ControllerBresenham;
 
 /**
  *
- * @author Everaldo
+ * @author Everaldo, Marcelo e João
  */
 
 public class FormBresenham extends javax.swing.JFrame {
