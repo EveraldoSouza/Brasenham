@@ -9,7 +9,8 @@ import javax.swing.JPanel;
  *
  * @author Everaldo, Marcelo e João
  */
-public class ControllerBresenham extends JPanel{
+public class ControllerBresenham extends JPanel{ // Criação da Classe controle
+        //Variaveis privadas finais 
         private final boolean gradeAtivada;
         private final boolean linhaAtivada;
         private final boolean bresenhamAtivada;
